@@ -1,0 +1,7 @@
+## Other
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.bak
+*.bak[0-9]
